@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [08/Oct/2022:06:35:43 +0300] "GET / HTTP/1.1" 200 339 http-bio-8080-exec-1 911
+0:0:0:0:0:0:0:1 - - [08/Oct/2022:06:36:01 +0300] "POST /login.do HTTP/1.1" 200 359 http-bio-8080-exec-3 38
+0:0:0:0:0:0:0:1 - - [08/Oct/2022:06:36:14 +0300] "POST /login.do HTTP/1.1" 200 426 http-bio-8080-exec-4 74
+0:0:0:0:0:0:0:1 - - [08/Oct/2022:06:36:22 +0300] "GET /welcome.do?selection=1 HTTP/1.1" 200 491 http-bio-8080-exec-5 46
+0:0:0:0:0:0:0:1 - - [08/Oct/2022:06:36:28 +0300] "GET /welcome.do?selection=2 HTTP/1.1" 200 491 http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [08/Oct/2022:06:36:32 +0300] "GET /welcome.do?selection=3 HTTP/1.1" 200 492 http-bio-8080-exec-7 4
+0:0:0:0:0:0:0:1 - - [08/Oct/2022:06:36:35 +0300] "GET /welcome.do?selection=4 HTTP/1.1" 200 491 http-bio-8080-exec-8 4
+0:0:0:0:0:0:0:1 - - [08/Oct/2022:06:47:26 +0300] "GET / HTTP/1.1" 200 339 http-bio-8080-exec-1 760
+0:0:0:0:0:0:0:1 - - [08/Oct/2022:06:47:29 +0300] "POST /login.do HTTP/1.1" 200 359 http-bio-8080-exec-3 44
+0:0:0:0:0:0:0:1 - - [08/Oct/2022:06:47:41 +0300] "POST /login.do HTTP/1.1" 200 425 http-bio-8080-exec-4 70
+0:0:0:0:0:0:0:1 - - [08/Oct/2022:06:47:47 +0300] "GET /welcome.do?selection=3 HTTP/1.1" 200 490 http-bio-8080-exec-5 58
